@@ -1,4 +1,4 @@
-# CS-361-Golf-Scatter-Plot
+# CS 361 Golf Scatter Plot
 
 A. Clear instructions for how to REQUEST data from the microservice you implemented. Include an example call.
 
